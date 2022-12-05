@@ -1,5 +1,5 @@
-# clusterless_neural_nets
-point-cloud based clusterless decoding based on neural nets
+# point cloud decoding
+point-cloud based clusterless decoding (neural nets)
 
 ```
 conda create -n point_cloud python=3.8
