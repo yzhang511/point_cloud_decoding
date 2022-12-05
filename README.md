@@ -6,6 +6,8 @@ conda create -n point_cloud python=3.8
 pip install -e.
 ```
 
+current repo under development (need to get my old code together) :)
+
 done: permutation-invariant neural nets
 
 to do: 
